@@ -1,0 +1,19 @@
+{
+  "name": "h5",
+  "version": "1.0.0",
+  "description": "H5 App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZXDJoey/H5.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZXDJoey/H5/issues"
+  },
+  "homepage": "https://github.com/ZXDJoey/H5#readme"
+}
